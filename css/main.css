@@ -34,8 +34,8 @@ footer {
 }
 .footer-flag {
     display: block;
-    margin: 9px auto; /* 10 default    */
-    width: 25px; /* Adjust size here */
+    margin: 8px auto; /* 10 default    */
+    width: 28px; /* Adjust size here */
     height: auto;
 }
 ul.posts { 
