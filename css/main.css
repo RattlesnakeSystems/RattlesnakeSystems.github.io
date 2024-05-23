@@ -35,7 +35,7 @@ footer {
 .footer-flag {
     display: block;
     margin: 10px auto;
-    width: 30px; /* Adjust size here */
+    width: 10px; /* Adjust size here */
     height: auto;
 }
 ul.posts { 
