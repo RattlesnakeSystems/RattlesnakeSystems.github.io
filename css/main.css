@@ -34,7 +34,7 @@ footer {
 }
 .footer-flag {
     display: block;
-    margin: 8px auto; /* 10 default    */
+    margin: 10px auto; /* 10 default    */
     width: 28px; /* Adjust size here */
     height: auto;
 }
