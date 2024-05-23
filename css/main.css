@@ -53,7 +53,7 @@ ul.posts li {
 
 .project-image {
     width: 100%;
-    max-width: 500px; /* project picture adjust */
+    max-width: 520px; /* project picture adjust */
     height: auto;
     display: block;
     margin: 0 auto 10px;
@@ -61,6 +61,13 @@ ul.posts li {
 
 
 .project-image2 {
+    width: 100%;
+    max-width: 600px; /* project picture adjust */
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
+.project-image3 {
     width: 100%;
     max-width: 600px; /* project picture adjust */
     height: auto;
