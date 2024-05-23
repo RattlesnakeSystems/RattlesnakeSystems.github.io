@@ -32,7 +32,12 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
+.footer-flag {
+    display: block;
+    margin: 10px auto;
+    width: 30px; /* Adjust size here */
+    height: auto;
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
