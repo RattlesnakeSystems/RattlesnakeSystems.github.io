@@ -46,3 +46,15 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.project {
+    margin-bottom: 30px;
+}
+
+.project-image {
+    width: 100%;
+    max-width: 600px; /* project picture adjust */
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+}
