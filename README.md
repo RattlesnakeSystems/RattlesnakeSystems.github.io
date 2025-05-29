@@ -1,4 +1,4 @@
-Welcome to my first Github Website!
+Welcome!
 
 
-https://mannsgreg.github.io/
+https://RattlesnakeSystems.github.io/
